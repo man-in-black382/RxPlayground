@@ -20,6 +20,20 @@
                ReferencedContainer = "container:RxPlayground.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C80938F51B8A71760088E94D"
+               BuildableName = "RxCocoa.framework"
+               BlueprintName = "RxCocoa-iOS"
+               ReferencedContainer = "container:../RxSwift_Lib/Rx.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
